@@ -3,3 +3,7 @@ I will make my University old project more lively again, will add some Unit test
 
 
 This will require node .js https://nodejs.org/en/download/
+
+ASP.NET Core and C# for cross-platform server-side code
+React and Redux for client-side code
+Bootstrap for layout and styling
